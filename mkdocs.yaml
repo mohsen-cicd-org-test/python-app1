@@ -1,0 +1,9 @@
+site_name: python-app1
+site_description: Documentation for the python-app1 project
+repo_url: https://github.com/mmahabadi/python-app1
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
